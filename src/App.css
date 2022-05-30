@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+button {
+  font-size: calc(10px + 2vmin);
+}
+.main{
+  display: flex;
+  width: 80%;
+  height: auto;
+  margin: auto;
+  gap: 150px;
+}
+.second{
+  border: 2px solid black;
+  width: 20%;
+  height: auto;
+  width: 300px;
+}
